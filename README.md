@@ -1,5 +1,5 @@
 - 👋 Olá, sou @LucasCaetanoM
-- 👀 Estou interessado em Desenvolvimento Front-end|Jr
+- 👀 Estou interessado em Desenvolvimento De Sistemas/Softwares
 - 🌱 Atualmente estou aprendendo, HTML,CSS, JavaScript e Python
 - 📫 Como entrar em contato comigo => lucascaetano2004@icloud.com
 
